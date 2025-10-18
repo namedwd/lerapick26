@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# 크롤링 제외
+Disallow: /admin
+Disallow: /api/
+
+# Sitemap 위치
+Sitemap: https://www.lerapick.com/sitemap.xml
